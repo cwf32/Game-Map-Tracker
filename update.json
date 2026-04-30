@@ -1,5 +1,5 @@
 {
-    "latest_version": "6.0.0",
-    "download_url": "https://pan.baidu.com/s/1rn1gDwGe1GQ2juuAPzHP_A?pwd=bstw",
-    "release_notes": "【v6.0.0 更新日志】\n1. 更换了地图底图实际资源点与标点0误差。\n2. 新增了大量资源点。\n3. 增加了眠枭之星资源点和路线。\n4. 优化了路线编辑，可拖动和删除中间的点。"
+    "latest_version": "6.1.0",
+    "download_url": "https://pan.baidu.com/s/1OCxX5eHMdCU3v6dqbww01Q?pwd=r4hk",
+    "release_notes": "【v6.1.0 更新日志】\n1. 优化了ui,让软件更流畅。\n2. 不提供任何游戏地图文件，与任何游戏无关，请大家自行研究使用。\n3. 该软件为图像匹配学习软件。\n4. 路线地图等资源共享网站www.mapforge.top。"
 }
