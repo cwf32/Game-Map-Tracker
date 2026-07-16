@@ -1,5 +1,5 @@
 {
-    "latest_version": "6.4.0",
-    "download_url": "https://pan.baidu.com/s/1HNXu0pRir4FcgkqeuVABgg?pwd=gwwn",
-    "release_notes": "【v6.4.0 更新日志】\n1. 新增了路线云端上传下载和共享功能 \n2. 优化了识别逻辑和速度\n路线上传下载功能：\n1.点击上传按钮可以上传路线供大家使用\n2.点击下载可以选择其他用户上传的路线自动下载到zizhi文件夹里（需要重启软件读取到新下载的路线）"
+    "latest_version": "6.5.0",
+    "download_url": "https://pan.quark.cn/s/cf7321402483",
+    "release_notes": "【v6.5.0 更新日志】\n1. 新增了地图区域 \n2. 新增了多种资源"
 }
